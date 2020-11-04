@@ -1,0 +1,3 @@
+G:/cppLearning/cppNotes/dontknow/test/build/CMakeFiles/cppNote.dir
+G:/cppLearning/cppNotes/dontknow/test/build/CMakeFiles/edit_cache.dir
+G:/cppLearning/cppNotes/dontknow/test/build/CMakeFiles/rebuild_cache.dir
